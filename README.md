@@ -7,7 +7,7 @@ Det här är mitt projekt för Case 1 i kursen. Projektet innehåller fyra HTML-
 1. **index.html** – Om mig och mina intressen.
 2. **assalsjön.html** – Presentation av Assalsjön med fakta, karta och artiklar.
 3. **evenemang.html** – Formulär för anmälan till en onlinepresentation om Assalsjön.
-4. **galleri.html** – Galleri med en närbild av Assalsjön, en video av en Genevasjön, en audio av vågljud och YouTube-video om saltsjöar.
+4. **galleri.html** – Galleri med en närbild av Assalsjön, en video av en Genevasjön, en audio av vågljud och en YouTube-video om salt.
 5. **Mappstruktur:**
    - `images/` – Bilder som används på sidorna.
    - `videos/` – Videofiler.
